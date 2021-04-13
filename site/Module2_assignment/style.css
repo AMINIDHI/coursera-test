@@ -1,0 +1,11 @@
+.div{
+	text-align: right;
+	border: 5px;
+	background-color: pink; 
+}
+.p{
+	background-color: grey;
+	font-size: 25px;
+	font-family: sans-serif;
+	text-align: justify;
+}
